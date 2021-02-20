@@ -10,3 +10,8 @@ Installation Steps:
 - Go to "Device File Manager" (top right menu) and upload base.png and enemy.png
 - Click the images in the preview on the left and chose base.png and enemy.png
 - Upload the program to your M5Stack
+
+See https://github.com/crismancich/M5Stack-Space-Invaders for more information.
+Feel free to fork, comment ideas and questions.
+
+Have Fun!
